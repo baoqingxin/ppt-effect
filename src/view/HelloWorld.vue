@@ -5,6 +5,7 @@
     <Dissolution />
     <p>扇形</p>
     <Sector/>
+    <p>淡入淡出</p>
   </div>
 </template>
 
