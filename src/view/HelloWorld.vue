@@ -5,15 +5,9 @@
     <Dissolution />
     <p>扇形</p>
     <Sector/>
-<<<<<<< HEAD
     <p>测试git</p>
-=======
     <p>淡入淡出</p>
-<<<<<<< HEAD
->>>>>>> fix dev2
-=======
     <p>淡入淡出1</p>
->>>>>>> fix dev2-1
   </div>
 </template>
 
