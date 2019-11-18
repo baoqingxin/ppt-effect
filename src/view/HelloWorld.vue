@@ -6,6 +6,7 @@
     <p>扇形</p>
     <Sector/>
     <p>淡入淡出</p>
+    <p>淡入淡出1</p>
   </div>
 </template>
 
