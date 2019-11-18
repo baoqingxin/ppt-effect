@@ -6,6 +6,7 @@
     <p>扇形</p>
     <Sector/>
     <p>测试git</p>
+    <p>测试git</p>
   </div>
 </template>
 
